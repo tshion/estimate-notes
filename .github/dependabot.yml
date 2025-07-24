@@ -10,5 +10,5 @@ updates:
     schedule:
       interval: weekly
       day: tuesday
-    assignees:
-      - tshion
+    reviewers:
+      - "tshion"
